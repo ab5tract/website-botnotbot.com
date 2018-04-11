@@ -1,0 +1,36 @@
+baseURL = "https://botnotbot.com/"
+languageCode = "en-us"
+title = "Bot/Notbot"
+
+theme = "coder"
+
+[params] # theme parameters
+    author = "Bot/Notbot" # author's name
+    info = "Music and hallucination" # author's job title or info
+    description = "Bot/Notbot, (sur)realidad music" # site description
+    keywords = "hip hop, electronic music, musician"
+
+[[params.social]]
+    name = "Twitter"
+    weight = 1
+    url = "https://twitter.com/botnotbot"
+
+[[params.social]]
+    name = "Soundcloud"
+    weight = 1
+    url = "https://soundcloud.com/botnotbot"
+
+[[menu.main]]
+    name = "Builds"
+    weight = 1
+    url = "/builds/"
+
+[[menu.main]]
+    name = "Dreams"
+    weight = 1
+    url = "/dreams/"
+
+[[menu.main]]
+    name = "Releases"
+    weight = 1
+    url = "https://soundcloud.com/botnotbot"
