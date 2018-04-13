@@ -21,9 +21,9 @@ theme = "coder"
     url = "https://soundcloud.com/botnotbot"
 
 [[menu.main]]
-    name = "Builds"
+    name = "Creates"
     weight = 1
-    url = "/builds/"
+    url = "/creates/"
 
 [[menu.main]]
     name = "Dreams"
@@ -34,3 +34,18 @@ theme = "coder"
     name = "Releases"
     weight = 1
     url = "https://soundcloud.com/botnotbot"
+
+[[menu.quick]]
+	name = "About"
+	weight = 1
+	url = "/about"
+
+[[menu.quick]]
+	name = "News"
+	weight = 1
+	url = "/releases/news"
+
+[[menu.quick]]
+	name = "Latest music"
+	weight = 1
+	url = "https://soundcloud.com/botnotbot"
