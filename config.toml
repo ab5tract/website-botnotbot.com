@@ -31,9 +31,9 @@ theme = "coder"
     url = "/dreams/"
 
 [[menu.main]]
-    name = "Releases"
+    name = "Reveals"
     weight = 1
-    url = "https://soundcloud.com/botnotbot"
+    url = "/reveals/music"
 
 [[menu.quick]]
 	name = "About"
@@ -48,4 +48,4 @@ theme = "coder"
 [[menu.quick]]
 	name = "Latest music"
 	weight = 1
-	url = "https://soundcloud.com/botnotbot"
+	url = "/reveals/music"
