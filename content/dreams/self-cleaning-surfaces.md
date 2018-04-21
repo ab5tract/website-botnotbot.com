@@ -3,7 +3,8 @@ title: "Self Cleaning Surfaces"
 date: 2018-04-08T16:21:26+02:00
 draft: false
 
-conjunction: "about"
+conjunction: "of"
+description: "Beyond pure laziness, there are a multitude of reasons to get excited about self-cleaning surfaces!"
 ---
 
 ## Why it matters to me

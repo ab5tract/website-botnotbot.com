@@ -1,8 +1,10 @@
 ---
 title: "Live at the End of an Era"
 date: 2018-04-13T11:32:27+02:00
-Conjunction: "called"
 draft: false
+
+conjunction: "called"
+description: "Doctor !$!$!$!'s return performance, for the first time backed live entirely by his own productions. There were many eras that ended this night, and Bot/Notbot not performing live was one of them."
 ---
 
 [LIVE! At the End of an Era](https://soundcloud.com/botnotbot/live-at-the-end-of-an-era) represents a huge turning point for myself, personally. While I was never shy of stages--having bum rushed quite a few, including a 2006 Macklemore set in Olympia, WA--I wasn't _ready_ for them.
