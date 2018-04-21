@@ -2,7 +2,7 @@ baseURL = "https://botnotbot.com/"
 languageCode = "en-us"
 title = "Bot/Notbot"
 
-theme = "coder"
+theme = "crower"
 
 [params] # theme parameters
     author = "Bot/Notbot" # author's name
@@ -33,7 +33,7 @@ theme = "coder"
 [[menu.main]]
     name = "Reveals"
     weight = 1
-    url = "/reveals/music"
+    url = "/reveals/"
 
 [[menu.quick]]
 	name = "About"
@@ -43,7 +43,7 @@ theme = "coder"
 [[menu.quick]]
 	name = "News"
 	weight = 1
-	url = "/releases/news"
+	url = "/reveals/news"
 
 [[menu.quick]]
 	name = "Latest music"

@@ -1,5 +1,5 @@
 ---
-title: Bot/Notbot dreams...
+SectionTitle: dreams
 date: 2018-04-08
 publishdate: 2018-04-08
 ---

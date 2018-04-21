@@ -2,6 +2,9 @@
 title: "A Fresh Start on Soundcloud"
 date: 2018-04-13T11:22:11+02:00
 draft: false
+
+conjunction: "of"
+description: "Bot/Notbot recordings will be released on their own Soundcloud page (R.I.P. soundcloud.com/ceasless)"
 ---
 
 I've been rapping under the name Ceasless since around 2003, essentially when I first started. So it's no surprise that when I joined SoundCloud as [Ceasless](https://soundcloud.com/ceasless) in 2013.

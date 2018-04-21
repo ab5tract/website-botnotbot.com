@@ -1,5 +1,5 @@
 ---
-title: "Bot/Notbot releases music"
+sectiontitle: "music"
 date: 2018-04-13T11:51:18+02:00
 draft: false
 ---

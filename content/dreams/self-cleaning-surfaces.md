@@ -2,6 +2,8 @@
 title: "Self Cleaning Surfaces"
 date: 2018-04-08T16:21:26+02:00
 draft: false
+
+conjunction: "about"
 ---
 
 ## Why it matters to me
