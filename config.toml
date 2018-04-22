@@ -38,7 +38,7 @@ theme = "crower"
 [[menu.quick]]
 	name = "About"
 	weight = 1
-	url = "/about"
+	url = "/reveals/details/botnotbot"
 
 [[menu.quick]]
 	name = "News"

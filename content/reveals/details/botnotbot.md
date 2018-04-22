@@ -1,7 +1,10 @@
 ---
-title: "About"
-date: 2018-04-13T02:48:40+02:00
+title: "Bot/Notbot"
+date: 2018-04-21T20:26:32+02:00
 draft: false
+
+conjunction: "about"
+description: "The Bot/Notbot story is a blend of weird, reality, and weird reality. No offense taken if you prefer to stick to the basslines."
 ---
 
 What happens when multiple versions of a person find themselves together in a single, converged timeline? That's what the two Johnny C variants known to this world as _Dr. Not Dollars_ and _Dr. Not Bot_ are about to find out!
